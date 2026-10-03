@@ -1,47 +1,139 @@
-<img align="center" src="https://github.com/Ekipchirchir/Ekipchirchir/blob/main/assets/header.gif?raw=true" alt="Neon Cyberpunk Header" />
-
-<br>
+<img align="center" src="https://github.com/Ekipchirchir/Ekipchirchir/blob/main/assets/header.gif?raw=true" alt="Emmanuel Kipchirchir - Software Developer" width="100%" />
 
 <div align="center">
-  
-  <br>
 
+# Emmanuel Kipchirchir
 
-  <br><br>
+### Software Developer • Full-Stack • Mobile • FinTech
 
-  <a href="https://www.linkedin.com/in/manuuchirchir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+I build modern web and mobile applications, backend systems, and digital solutions
+that solve real-world problems.
+
+<p>
+  <a href="https://www.linkedin.com/in/manuuchirchir">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/itiskipchirchir" target="_blank">
+  <a href="https://x.com/itiskipchirchir">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:manuuchirchir50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF2D20?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00EEFF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software developer focused on building **reliable, scalable, and user-friendly applications**.
+
+My work spans:
+
+- 🌐 Web applications and REST APIs
+- 📱 Cross-platform mobile applications
+- 💳 FinTech and payment integrations
+- ⚙️ Backend systems and databases
+- ☁️ Deployment, cloud infrastructure and DevOps
+- 🔐 Authentication, security and system reliability
+
+I enjoy turning ideas into production-ready software and continuously learning
+new technologies along the way.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,flutter,dart" />
+
+### Backend, Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=express,prisma,mongodb,mysql,firebase,docker,aws" />
+
+### Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+| 🌐 Web | 📱 Mobile | ⚙️ Backend | 💳 FinTech |
+|:---:|:---:|:---:|:---:|
+| Modern Web Apps | React Native & Flutter | REST APIs | Payment Systems |
+| Dashboards | Android Apps | Databases | M-Pesa Integration |
+| Admin Systems | Mobile UX | Authentication | Financial Platforms |
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://www.deri-fund.com/">
+  <img src="https://img.shields.io/badge/DERI--FUND-FinTech%20Platform-007AFF?style=for-the-badge" />
+</a>
+
+<a href="https://www.instant-m-transfer.com/">
+  <img src="https://img.shields.io/badge/Instant%20Transfer-Payment%20Platform-22C55E?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ekipchirchir&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekipchirchir&layout=compact&theme=transparent&hide_border=true" height="170" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Tech Stack & Tools I Use Daily</h3>
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,flutter,firebase,tailwind,prisma,docker,aws,git,github,vscode,figma&theme=dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekipchirchir&theme=transparent&hide_border=true" />
+
 </div>
 
-<br>
-
-
-<br>
-
-
-<br>
+---
 
 <div align="center">
-  <img src="https://github.com/Ekipchirchir/Ekipchirchir/blob/main/assets/footer.gif?raw=true" width="100%" />
-  <br><br>
-  <sub><b>Open to full-time · freelance · collaboration</b> • Nairobi, Kenya</sub>
+
+### Let's build something.
+
+<a href="mailto:manuuchirchir50@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-007AFF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Open to full-time · freelance · collaboration</sub>
+
+<br>
+
+<sub>📍 Nairobi, Kenya</sub>
+
+<br><br>
+
+<img src="https://github.com/Ekipchirchir/Ekipchirchir/blob/main/assets/footer.gif?raw=true" width="100%" />
+
 </div>
-<!-- Cache bust: $(date) -->
