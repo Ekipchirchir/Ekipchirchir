@@ -1,30 +1,28 @@
+<img align="center" src="https://github.com/Ekipchirchir/Ekipchirchir/blob/main/assets/header.gif?raw=true" alt="Emmanuel Kipchirchir - Software Developer" width="100%" />
+
 <div align="center">
-
-<img src="https://github.com/Ekipchirchir/Ekipchirchir/blob/main/assets/header.gif?raw=true" alt="Emmanuel Kipchirchir - Software Developer" width="100%" />
-
-<br>
 
 # Emmanuel Kipchirchir
 
-### Software Developer · Full-Stack · Mobile · FinTech
+### Software Developer • Full-Stack • Mobile • FinTech
 
-I build modern web and mobile applications, backend systems, and digital
-solutions that solve real-world problems.
+I build modern web and mobile applications, backend systems, and digital solutions
+that solve real-world problems.
 
-<br>
-
-<a href="https://www.linkedin.com/in/manuuchirchir">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/itiskipchirchir">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="mailto:manuuchirchir50@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/manuuchirchir">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/itiskipchirchir">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:manuuchirchir50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ekipchirchir.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -32,15 +30,19 @@ solutions that solve real-world problems.
 
 ## About Me
 
-I'm a software developer focused on building reliable, scalable, and
-user-friendly applications.
+I'm a software developer focused on building **reliable, scalable, and user-friendly applications**.
 
-My experience spans web development, mobile applications, backend systems,
-databases, payment integrations, and system support.
+My work spans:
 
-I enjoy taking an idea from concept to a working product — from designing
-interfaces and building APIs to integrating services, managing databases,
-and deploying applications.
+- Web applications and REST APIs
+- Cross-platform mobile applications
+- FinTech and payment integrations
+- Backend systems and databases
+- Deployment, cloud infrastructure and DevOps
+- Authentication, security and system reliability
+
+I enjoy turning ideas into production-ready software and continuously learning
+new technologies along the way.
 
 ---
 
@@ -52,17 +54,13 @@ and deploying applications.
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,flutter,dart" />
 
-<br><br>
-
 ### Backend, Database & Cloud
 
 <img src="https://skillicons.dev/icons?i=express,prisma,mongodb,mysql,firebase,docker,aws" />
 
-<br><br>
+### Tools & Design
 
-### Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
 
 </div>
 
@@ -72,17 +70,11 @@ and deploying applications.
 
 <div align="center">
 
-| Web Applications | Mobile Applications |
-|:---:|:---:|
-| Modern Web Platforms | Cross-Platform Apps |
-| Admin Dashboards | React Native |
-| Business Systems | Flutter |
-
-| Backend Systems | FinTech Solutions |
-|:---:|:---:|
-| REST APIs | Payment Integrations |
-| Authentication | M-Pesa Integrations |
-| Databases | Financial Platforms |
+| 🌐 Web | 📱 Mobile | ⚙️ Backend | 💳 FinTech |
+|:---:|:---:|:---:|:---:|
+| Modern Web Apps | React Native & Flutter | REST APIs | Payment Systems |
+| Dashboards | Android Apps | Databases | M-Pesa Integration |
+| Admin Systems | Mobile UX | Authentication | Financial Platforms |
 
 </div>
 
@@ -90,29 +82,17 @@ and deploying applications.
 
 ## Featured Projects
 
-### DERI-FUND
-
-A digital financial platform focused on facilitating transactions and
-services for Deriv users.
-
-**Technology:** React Native · Node.js · REST APIs · MongoDB · Firebase · M-Pesa
+<div align="center">
 
 <a href="https://www.deri-fund.com/">
-  <img src="https://img.shields.io/badge/Visit%20DERI--FUND-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/DERI--FUND-FinTech%20Platform-007AFF?style=for-the-badge" />
 </a>
-
-<br><br>
-
-### Instant Transfer
-
-A mobile platform that allows users to deposit to and withdraw from Deriv
-using M-Pesa.
-
-**Technology:** React Native · Node.js · MySQL · REST APIs · M-Pesa
 
 <a href="https://www.instant-m-transfer.com/">
-  <img src="https://img.shields.io/badge/Visit%20Instant%20Transfer-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instant%20Transfer-Payment%20Platform-22C55E?style=for-the-badge" />
 </a>
+
+</div>
 
 ---
 
@@ -124,7 +104,11 @@ using M-Pesa.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekipchirchir&layout=compact&theme=transparent&hide_border=true" height="170" />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekipchirchir&theme=transparent&hide_border=true" />
 
@@ -132,12 +116,24 @@ using M-Pesa.
 
 ---
 
-## Currently Focused On
+<div align="center">
 
-```text
-Building       →  Production-ready web & mobile applications
-Backend        →  APIs, databases & distributed systems
-FinTech        →  Payment & financial infrastructure
-Mobile         →  React Native & Flutter
-Cloud          →  Deployment, infrastructure & reliability
-Learning       →  System design & scalable architectures
+### Let's build something.
+
+<a href="mailto:manuuchirchir50@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-007AFF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Open to full-time · freelance · collaboration</sub>
+
+<br>
+
+<sub>📍 Nairobi, Kenya</sub>
+
+<br><br>
+
+<img src="https://github.com/Ekipchirchir/Ekipchirchir/blob/main/assets/footer.gif?raw=true" width="100%" />
+
+</div>
