@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# Emmanuel Kipchirchir
-
 ### Software Developer • Full-Stack • Mobile • FinTech
 
 I build modern web and mobile applications, backend systems, and digital solutions
