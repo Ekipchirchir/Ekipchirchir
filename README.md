@@ -70,7 +70,7 @@ new technologies along the way.
 
 <div align="center">
 
-| 🌐 Web | 📱 Mobile | ⚙️ Backend | 💳 FinTech |
+|  Web |  Mobile |  Backend |  FinTech |
 |:---:|:---:|:---:|:---:|
 | Modern Web Apps | React Native & Flutter | REST APIs | Payment Systems |
 | Dashboards | Android Apps | Databases | M-Pesa Integration |
@@ -120,17 +120,25 @@ new technologies along the way.
 
 ### Let's build something.
 
-<a href="mailto:manuuchirchir50@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-007AFF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="mailto:manuuchirchir50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+254769652512">
+    <img src="https://img.shields.io/badge/Call-007AFF?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+  <a href="https://wa.me/254769652512">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-<br><br>
+<br>
 
 <sub>Open to full-time · freelance · collaboration</sub>
 
 <br>
 
-<sub>📍 Nairobi, Kenya</sub>
+<sub>Nairobi, Kenya</sub>
 
 <br><br>
 
